@@ -53,7 +53,8 @@ Initially, I planned to use simple conditional logic to handle user queries.
 
 ---
 
-## 🔮 Next Steps
-Now that the backend data flow is robust, my next goal is to implement a real-time dashboard using **Plotly** to visualize trades as they hit the buffer.
+## 🔮 For task 3 : 
+i tried and almost did the backend part but could not complete the code .
 
-Would you like me to help you draft the code for that **Plotly** visualization to add to your repo?
+Tried to implement a real-time dashboard using **Plotly** to visualize trades as they hit the buffer.
+
